@@ -1,0 +1,25 @@
+Mouse Cursor Game
+
+Available Versions:
+
+#38: 1.5.4_REV38 (Older)
+#40: 1.5.5_REV40 (Released 14-7-2020 at 23:00 UTC +8)
+#42: 1.6.0_REV42 (Released 15-7-2020 at 12:00 UTC +8)
+#44: 1.6.1_REV44 (Released 15-7-2020 at 15:00 UTC +8)
+#46: 1.6.2_REV46 (Released 9-8-2020 at 16:00 UTC +8)
+#54: 1.7.0_REV54 (Released 15-8-2020 at 16:00 UTC +8)
+
+Supported Versions:
+
+1.6.x (Until 31-12-2020)
+1.7.x (Until 31-3-2021)
+
+Unsupported Versions:
+
+< 1.5.x (Until 31-12-2019)
+1.5.x (Until 15-7-2020)
+
+Dependencies:
+
+- Windows/Mac with Mouse/Touchpad
+- Microsoft PowerPoint

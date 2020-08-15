@@ -1,0 +1,12 @@
+Bugs in Mouse Cursor Game
+
+Known Bug(s):
+
+MCG-0004: "Speed cursoring" will prevent from losing
+MCG-0005: Holding right click will prevent from losing
+
+Fixed Bug(s):
+
+MCG-0001: Right click to move to the finish without losing
+MCG-0002: Two circles on the edge prevents from losing
+MCG-0003: Music don't loop back
