@@ -1,2 +1,5 @@
 # Mouse-Cursor-Game
-A mouse cursor game that is made and run in PowerPoint
+
+A mouse cursor game that was made to run in PowerPoint
+
+Releases: https://github.com/Kygekraqmak/Mouse-Cursor-Game/releases
