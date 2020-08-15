@@ -1,0 +1,27 @@
+What's new in 1.7.0 (Released 15-8-2020 at 16:00 UTC +8):
+
+- Added new music
+- Increased music compatibility
+- Aspect ratio changed to 16:9 from 4:3
+- Added splash on title
+- Changed README.txt
+
+What's new in 1.6.2 (Released 9-8-2020 at 16:00 UTC +8):
+
+- Changed red buttons to orange
+- Optimized buttons
+
+What’s new in 1.6.1 (Released 15-7-2020 at 15:00 UTC +8):
+
+- Optimized “How to Play”
+- Changed “Click “Start” to Start!”
+- Changed README.txt
+- Added file details (Properties > Details)
+- Changed some button colors
+
+What’s new in 1.6.0 (Released 15-7-2020 at 12:00 UTC +8):
+
+- Credits are now in the slide.
+- Changed “Important Note” to changelogs
+- Mouse Cursor Game will be kept supported
+- More improvements
